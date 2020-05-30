@@ -1,0 +1,7 @@
+{
+  "name": "lifemanager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
